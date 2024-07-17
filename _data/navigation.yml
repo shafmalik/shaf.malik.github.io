@@ -1,11 +1,9 @@
 # main links links
 main:
+     
+  - title: "Resume"
+    url: "shaf.malik.github.io/_data/files/paper2.pdf"
 
   - title: "Portfolio"
-    url: /portfolio/
-         
-  - title: "Resume"
-    url: shaf.malik.github.io/_data/files/paper2.pdf
-    
-  - title: "Guide"
-    url: /markdown/
+     url: /portfolio/
+
