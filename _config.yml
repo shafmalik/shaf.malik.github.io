@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shaf Malik / Site Title"
+title                    : "Shaf Malik / Data Portfolio"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Shaf Malik"
 description              : &description "personal description"
 url                      : "https://shafmalik.github.io/shaf.malik.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
