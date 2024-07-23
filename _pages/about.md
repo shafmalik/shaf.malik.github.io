@@ -18,7 +18,7 @@ In this project I have used survival analysis to study how the likelihood of the
 **SKILLS USED**: 
 
 
-![Chicken](https://github.com/user-attachments/assets/eab7f12f-e644-492b-b932-c23bf0aa7d75)
+<img align="center" width="160" height="130" src="https://github.com/user-attachments/assets/56f2f035-c173-4f2f-9ad1-4e64aca7e791">
 
 
 
