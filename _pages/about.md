@@ -6,15 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+# ABOUT ME
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
+## Projects
 
- **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/56f2f035-c173-4f2f-9ad1-4e64aca7e791"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
-In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku.
+In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku.   
 
-![Chicken](https://github.com/user-attachments/assets/56f2f035-c173-4f2f-9ad1-4e64aca7e791)
+
+
 
 
 
