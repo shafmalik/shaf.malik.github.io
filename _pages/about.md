@@ -12,7 +12,7 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 
 <div align="left">
-	<img width = "33%" src="https://i.imgur.com/8BgVXcY.png">
+	<img width = "33%" src="https://github.com/shafmalik/shaf.malik.github.io/blob/master/images/3953273590_704e3899d5_m.jpg">
 </div>
 
 
