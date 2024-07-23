@@ -1,6 +1,11 @@
 # Academic Pages
 
-![pages-build-deployment](https://github.com/shafmalik/shaf.malik.github.io/blob/master/images/3953273590_704e3899d5_m.jpg)
+[![pages-build-deployment](https://github.com/shafmalik/shaf.malik.github.io/blob/master/images/3953273590_704e3899d5_m.jpg)](https://shafmalik.github.io/shaf.malik.github.io/)
+
+<p align="center">
+   <a href="https://shafmalik.github.io/shaf.malik.github.io/">
+   <img src="https://github.com/shafmalik/shaf.malik.github.io/blob/master/images/3953273590_704e3899d5_m.jpg"  alt="Logo"  width="250">
+
 
 Academic Pages is a Github Pages template for academic websites.
 
