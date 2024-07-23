@@ -1,6 +1,6 @@
 # Academic Pages
 
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+![pages-build-deployment](https://github.com/shafmalik/shaf.malik.github.io/blob/master/images/3953273590_704e3899d5_m.jpg)
 
 Academic Pages is a Github Pages template for academic websites.
 
