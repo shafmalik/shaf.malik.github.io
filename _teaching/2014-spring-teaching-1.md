@@ -1,14 +1,4 @@
----
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
 
-This is a description of a teaching experience. You can use markdown like any other post.
 ## Micro Projects
 - ### Statistics and Machine Learning
     - [Genetic Algorithm](https://github.com/archd3sai/Statistical-Methods/blob/master/genetic-algorithm.ipynb) : In this file, I have implemented simple genetic algorithm that finds out the list of numbers which equal to any specified number when summed together.
@@ -17,11 +7,3 @@ This is a description of a teaching experience. You can use markdown like any ot
     - [Linear Regression](https://github.com/archd3sai/Statistical-Methods/blob/master/Linear%20Regression.ipynb): In this file, I aim to solve linear regression using analytical method and also by implementing gradient descent, stochastic gradient descent and minibatch gradient descent algorithms. 
     - [Neural Network Implementation](https://github.com/archd3sai/Statistical-Methods/blob/master/NN%20Implementation.ipynb): In this file, I implemented simple neural network using forward propogation, backword propogation and optimization functions to predict the customer churn.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
