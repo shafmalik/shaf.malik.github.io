@@ -13,7 +13,8 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 <img align="right" width="190" height="150" src="https://github.com/user-attachments/assets/56f2f035-c173-4f2f-9ad1-4e64aca7e791"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
-In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku.   
+In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. 
+                                                                                           **SKILLS USED**: 
 
 
 
