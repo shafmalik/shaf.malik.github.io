@@ -1,7 +1,3 @@
-# Shaf's Data Portfolio
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-
- **[PORTFOLIO](https://shafmalik.github.io/shaf.malik.github.io/)**
 
 # PURPOSE
 
@@ -13,6 +9,9 @@
 1. Check status by going to the repository settings, in the "GitHub pages" section
 1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
 
-This webpage and project site is maintained daily by Shaf. Thanks for visiting. 
+This webpage and project site is maintained daily by Shaf Malik. Thanks for visiting. 
+
+ **[PORTFOLIO](https://shafmalik.github.io/shaf.malik.github.io/)**
 
 Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
