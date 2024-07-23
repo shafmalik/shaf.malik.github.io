@@ -11,13 +11,12 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 
 
-<img align="left" width="100" height="100" src="https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml)">
+<div align="left">
+	<img width = "33%" src="https://i.imgur.com/8BgVXcY.png">
+</div>
 
 
 # Get
-<p align="center">
-   <a href="https://shafmalik.github.io/shaf.malik.github.io/">
-   <img src="https://github.com/shafmalik/shaf.malik.github.io/blob/master/images/3953273590_704e3899d5_m.jpg"  alt="Logo"  width="250">
      
 # Help 
 
