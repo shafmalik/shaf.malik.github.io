@@ -21,7 +21,7 @@ repository               : "https://shafmalik.github.io/shaf.malik.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/shafmalik/shaf.malik.github.io/blob/master/images/thumbnail_IMG_1127.jpg"
+  avatar           : "thumbnail_IMG_1127.jpg"
   name             : "Your Sidebar Name" 
   bio              : "Short biography for the left-hand sidebar"
   uri              : # URL
