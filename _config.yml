@@ -12,7 +12,7 @@ title                    : "Data Portfolio"
 title_separator          : "-"
 name                     : &name "Shaf Malik"
 description              : &description "personal description"
-url                      : "https://shafmalik.github.io/shaf.malik.github.io/"
+url                      : "https://shafmalik.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://shafmalik.github.io/shaf.malik.github.io/"
 
