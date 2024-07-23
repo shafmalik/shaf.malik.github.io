@@ -1,7 +1,7 @@
 # Shaf's Data Portfolio
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 
- [PORTFOLIO](https://shafmalik.github.io/shaf.malik.github.io/)
+ **[PORTFOLIO](https://shafmalik.github.io/shaf.malik.github.io/)**
 
 # PURPOSE
 
