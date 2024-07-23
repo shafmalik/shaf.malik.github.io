@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
- ### Statistics and Machine Learning
+ - ### Statistics and Machine Learning
     - [Genetic Algorithm](https://github.com/archd3sai/Statistical-Methods/blob/master/genetic-algorithm.ipynb) : In this file, I have implemented simple genetic algorithm that finds out the list of numbers which equal to any specified number when summed together.
     - [Bayesian Statistics](https://github.com/archd3sai/Statistical-Methods/blob/master/Bayesian%20Statistics.ipynb) : In this file, I explored how bayesian statistics works and how prior assumption reflects posterior probabilities using Gun control example. 
     - [Gaussian Mixture Model and Expectation Maximization](https://github.com/archd3sai/Statistical-Methods/blob/master/GMM-EM.ipynb): In this file, I implemented Expectation Maximization algorithm to find out true distribution of one dimensional GMM of 2 gaussians.
