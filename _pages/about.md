@@ -18,7 +18,9 @@ In this project I have used survival analysis to study how the likelihood of the
 **SKILLS USED**: 
 
 
-<img align="center" width="160" height="130" src="https://github.com/user-attachments/assets/56f2f035-c173-4f2f-9ad1-4e64aca7e791">
+<p align="center">
+  <img width="300" height="200" src="https://github.com/user-attachments/assets/56f2f035-c173-4f2f-9ad1-4e64aca7e791">
+</p>
 
 
 
