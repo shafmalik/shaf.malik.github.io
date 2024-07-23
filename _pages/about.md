@@ -14,8 +14,8 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku.
 
+![Chicken](https://github.com/user-attachments/assets/56f2f035-c173-4f2f-9ad1-4e64aca7e791)
 
-<img align="left" width="20" height="30" src="https://github.com/shafmalik/shaf.malik.github.io/blob/master/images/Chicken.JPG">
 
 
 
