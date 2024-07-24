@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Micro Projects"
 permalink: /cv/
 author_profile: true
 redirect_from:
