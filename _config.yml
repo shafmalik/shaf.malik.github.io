@@ -21,13 +21,14 @@ repository               : "https://shafmalik.github.io/shaf.malik.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
 
+<p align="center">
   # Biographic information
   avatar           : "thumbnail_IMG_1127.jpg"
   name             : "" 
   bio              : ""
   uri              : # URL
-  <p align="center">email            : "shafmalik05@gmail.com"</p> 
-
+  email            : "shafmalik05@gmail.com" 
+</p>
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # URL
