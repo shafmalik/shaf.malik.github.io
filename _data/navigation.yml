@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Micro Projects"
-    url: /cv/
-    
   - title: "Resume"
-    url: files/Main Resume.pdf  
+    url: 
+    
+  - title: "Micro Projects"
+    url:   
 
 
 
