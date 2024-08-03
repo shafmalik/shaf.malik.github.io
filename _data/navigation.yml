@@ -1,10 +1,11 @@
 # main links links
 main:
+ - title: "Mirco Projects"
+    url: /cv/
+
   - title: "Resume"
     url: files/Main Resume.pdf
-    
-  - title: "Mirco Projects"
-    url: /cv/
+
     
 
 
