@@ -1,16 +1,44 @@
  **[PORTFOLIO](https://shafmalik.github.io/shaf.malik.github.io/)**
 # PURPOSE
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+# Data Science Portfolio - Arch Desai
+This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
-This webpage and project site is maintained daily by Shaf Malik. Thanks for visiting. 
+- **Email**: [archdesai.ad@gmail.com](archdesai.ad@gmail.com)
+- **LinkedIn**: [linkedin.com/archd3sai](https://www.linkedin.com/in/archd3sai/)
 
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+## Achievements
+- Recipient of Outstanding Master of Engineering - Industrial Engineering Student Award.
+- [Publication](https://phmpapers.org/index.php/phmconf/article/view/1292): Prognosis of Wind Turbine Gearbox Bearing Failures using SCADA and Modeled Data, Proceedings of the Annual Conference of the PHM Society 2020, Vol. 12 No. 1.
+- Winner of a TAMU Datathon 2020 among 50+ teams.
+- Recipient of TAMU Scholarship and Fee Waiver for excellent academic performance (4.0 GPA).
 
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+## Projects
+
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+
+In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
+
+The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/1_cEaeMuTvINqIgyYQMSJWUA.jpeg"> **[Hybrid-filtering News Articles Recommendation Engine](https://github.com/archd3sai/News-Articles-Recommendation)**
+ 
+A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/airplane.jpeg"> **[Predictive Maintenance of Aircraft Engine](https://github.com/archd3sai/Predictive-Maintenance-of-Aircraft-Engine)**
+
+In this project I have used models such as RNN, LSTM, 1D-CNN to predict the engine failure 50 cycles ahead of its time, and calculated feature importance from them using sensitivity analysis and shap values. Exponential degradation and similarity-based models are also used to calculate its remaining life.
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/960x0.jpg"> **[Wind Turbine Power Curve Estimation](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation)**
+
+In this project, I have employed regression techniques to estimate the Power curve of an on-shore Wind turbine. Nonlinear trees based regression methods perform best as true power curve is nonlinear. XGBoost is implemented and optimized using GridSearchCV which yields lowest Test RMSE-6.404.
